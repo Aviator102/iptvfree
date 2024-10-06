@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:-1,Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1,Gospel Movie TV
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+#EXTINF:-1,Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+#EXTINF:-1,Retro Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+#EXTINF:-1,Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+#EXTINF:-1,Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+#EXTINF:-1,Play TV
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+#EXTINF:-1,Record News
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+#EXTINF:-1,Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1,SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1,Animax
+https://stream.ichibantv.com:3547/stream/play.m3u8
+#EXTINF:-1,TV Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1,Bons Tempos
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
+#EXTINF:-1,Loading
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1,Otaku Sign
+https://stmv1.srvif.com/otaku/otaku/playlist.m3u8
+#EXTINF:-1,TV Aracati
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:-1,AniTV
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:-1,TV Zyn
+https://amg01391-sbtinfast-amg01391c2-runtime-latam-1337.playouts.now.amagi.tv/playlist/amg01391-addigital-tvzyn-runtimelatam/playlist.m3u8
+#EXTINF:-1,ConecTV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+#EXTINF:-1,Toon Goggles
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+#EXTINF:-1,Adorando Jesus
+https://stmv1.srvif.com/adorando/adorando/playlist.m3u8
+#EXTINF:-1,Mi TV
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+#EXTINF:-1,Gospel Music Television
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8
+#EXTINF:-1,Filmes Online
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1,TV Clássicos do Cinema
+https://stmv1.srvif.com/movies1/movies1/playlist.m3u8
+#EXTINF:-1,Clouding
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/playlist.m3u8
+#EXTINF:-1,Runtime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+#EXTINF:-1,TV Osório
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
